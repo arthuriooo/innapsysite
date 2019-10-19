@@ -4,7 +4,7 @@ module.exports = {
     description: 'Психолог, психоаналитик, сексолог - доступ к счастью тут.',
   },
   plugins: [
-    `gatsby-transformer-remark`,
+    // `gatsby-transformer-remark`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
